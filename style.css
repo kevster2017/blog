@@ -1,6 +1,3 @@
-.footer {
-    background-color: black;
-}
 
 .title{
     margin-top: 40px;
@@ -27,6 +24,30 @@
     font-weight: 400;
     text-decoration: none;
     display: inline-block;
+}
+
+
+/* Newsletter Section */
+.newsletter{
+    background-color: rgb(247, 245, 245);
+    margin-bottom: 30px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.subscribe {
+    justify-content: center;
+    margin-top: 20px;
+}
+.textField{
+    padding-left: 10px;
+    margin-right: 10px;
+
+}
+
+/* Footer Section */
+.footer {
+    background-color: black;
 }
 
 .footerLink {
