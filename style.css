@@ -29,6 +29,10 @@
     display: inline-block;
 }
 
-.footer {
-    
+.footerLink {
+   color: grey;
+   text-decoration: none;
+   height: 60px;
+   padding: 17px 15px 15px;
+   display: inline-block;
 }
