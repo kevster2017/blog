@@ -9,3 +9,26 @@
     font-size: 70px;
     font-weight: bold;
 }
+
+.secondNav{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+
+}
+
+
+.navLink{
+    height: 60px;
+    padding: 17px 15px 15px;
+    font-weight: 400;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.footer {
+    
+}
