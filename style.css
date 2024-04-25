@@ -29,43 +29,33 @@
 /* Carousel */
 
 .carousel-caption{
-    width: 100%;
+    
     text-align: left;
 }
 .carouselImage{
     height: 600px;
 }
 
-.carouselTitle{  
+.carouselTitle, .carouselText{  
     align-items: center;
-    background-color: black;
-    padding: 10px;
-    
 margin-bottom: 10px;
     
 }
 
-.carouselText{
-    align-items: center;
-    background-color: black;
-    padding: 10px;
-    
-}
 
-.carouselTitleLink{
-    text-decoration: none;    
+
+.carouselTitleLink, .carouselTextLink{
+    background-color: black; /* Moves the background color to the link */
     color: white;
-    padding: 2px 6px;
+    text-decoration: none;
+    display: inline; /* Ensures the background only covers the text */
+
 }
 
 .carouselTextLink{
-    text-decoration: none;    
-    color: white;
     font-size: 32px;
-    padding-left: 9px;
-    padding-right: 9px;
-    display: inline;
-    position: relative;
+    padding: 2px 6px;
+   
 }
 
 /* Newsletter Section */
