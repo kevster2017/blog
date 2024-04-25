@@ -48,6 +48,7 @@ margin-bottom: 10px;
     background-color: black; /* Moves the background color to the link */
     color: white;
     text-decoration: none;
+    padding: 2px 6px; /* Adjusted to be consistent between title and text links */
     display: inline; /* Ensures the background only covers the text */
 
 }
@@ -56,6 +57,12 @@ margin-bottom: 10px;
     font-size: 32px;
     padding: 2px 6px;
    
+}
+
+/* Latest Posts Section */
+.latestPosts{
+text-align: left;
+border-bottom: 3px solid black;
 }
 
 /* Newsletter Section */
