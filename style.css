@@ -65,6 +65,12 @@ text-align: left;
 border-bottom: 3px solid black;
 }
 
+.card-img-top {
+    height: 300px;  /* Set your desired height */
+    object-fit: cover;  /* Cover the frame without distorting the image */
+    width: 100%;  /* Maintain full width */
+}
+
 /* Newsletter Section */
 .newsletter{
     background-color: rgb(247, 245, 245);
