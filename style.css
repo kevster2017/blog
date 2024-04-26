@@ -8,6 +8,7 @@
 .navbar-nav {
     display: flex;
     align-items: center;
+    
 }
 
 .navbar-nav li{
