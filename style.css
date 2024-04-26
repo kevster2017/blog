@@ -24,6 +24,7 @@
     font-weight: 400;
     text-decoration: none;
     display: inline-block;
+    align-items: center;
 }
 
 /* Carousel */
